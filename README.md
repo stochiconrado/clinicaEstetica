@@ -35,7 +35,6 @@ A aplicação possui as seguintes funcionalidades:
 3. **Executar a Aplicação:**
    - Frontend:
      - Basta abrir os arquivos HTML diretamente no navegador ou hospedar em um servidor web.
-   ```
  
 ## Contribuição
 
